@@ -1,7 +1,7 @@
 console.log('hello! this is app.js');
 
 function getRandom() {
-
+// посмотри это!!!
 
     console.log('******')
     console.log('random')
