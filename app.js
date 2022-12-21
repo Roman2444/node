@@ -5,6 +5,8 @@ function getRandom() {
 
     console.log('******')
     console.log('random')
+
+    console.log(5);
     return console.log(Math.random());
 }
 
